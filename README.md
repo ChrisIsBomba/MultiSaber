@@ -1,4 +1,3 @@
-# Multisaber
 ---
 ***I am not responsible for what you do with this software.***
 ***The intent is for friends with Beat Saber to be able to play with friends without Beat Saber without all the hassle.***
@@ -17,3 +16,7 @@ Credit to the Beat Saber Modding Group + the Beat Saber community for all the mo
 Put together by me:
 Chr_s_
 ---
+
+------
+(If you want a serial then thats too bad! You need to contact me and get approval to get one and I do NOT sell this software.)
+------
