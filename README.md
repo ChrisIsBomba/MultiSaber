@@ -18,5 +18,6 @@ Chr_s_
 ---
 
 ------
-(If you want a serial then thats too bad! You need to contact me and get approval to get one and I do NOT sell this software.)
+(If you want a serial then go get one! You need to contact me and get approval to get one and I do NOT sell this software.)
+https://discord.gg/REQzezeFxU
 ------
